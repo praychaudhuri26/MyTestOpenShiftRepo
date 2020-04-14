@@ -13,7 +13,7 @@ public class Patient {
 	private String mobile;
 	private String name;
 
-	/*Constructors*/
+	/*Constructors*/	
 	public Patient() {
 
 	}
